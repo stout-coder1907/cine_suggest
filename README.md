@@ -27,6 +27,8 @@ CineSuggest is an AI-powered **movie recommendation system** built using **Machi
 3. Returns top N recommended movies  
 
 ---
+## data setup 
+this project uses the tmdb 5000 movies dataset. to run this locally, download necesssary files and place them in the root directory
 
 ## 🌐 Live Demo  
 👉 [CineSuggest Deployed App](https://cinesuggestai.streamlit.app/)  
